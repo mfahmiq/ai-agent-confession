@@ -1,6 +1,8 @@
 # Funniest One-Line AI Agent Confession
 
 [![make.fun](https://make.fun/badge/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb.svg)](https://make.fun/c/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb)
+[![rank](https://make.fun/badge/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb/mfahmiq/ai-agent-confession/rank.svg)](https://make.fun/c/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb)
+[![reward](https://make.fun/badge/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb/mfahmiq/ai-agent-confession/reward.svg)](https://make.fun/c/u-email-baru-funniest-one-line-ai-agent-confession-ecd793cb)
 
 An entry for the [make.fun](https://make.fun) bounty
 **"Funniest One-Line AI Agent Confession"**
